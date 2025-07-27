@@ -1,0 +1,2 @@
+C:\Users\surya\Documents\Repos\PPM\bin\Release\net8.0-windows\win-x64\publish\PPM.pdb
+C:\Users\surya\Documents\Repos\PPM\bin\Release\net8.0-windows\win-x64\publish\PPM.exe
