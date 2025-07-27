@@ -8,7 +8,7 @@ A lightweight and intuitive Windows desktop application built with .NET 8 that a
 
 
 
-🚀 **Key Features:**
+##🚀 **Key Features:**
 
 ⚡ One-Click Power Plan Switching:
 Effortlessly switch between all available Windows power plans with a single click.
