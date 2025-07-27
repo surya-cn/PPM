@@ -3,7 +3,7 @@ A lightweight and intuitive Windows desktop application built with .NET 8 that a
 
 ## 📥 Download Installer
 
-➡️ [Download PPM Setup (v1.0.0)]([https://github.com/surya-cn/PPM/releases/latest](https://github.com/surya-cn/PPM/releases/download/Setup/PPM.Setup.exe)
+➡️ [Download PPM Setup (v1.0.0)](https://github.com/surya-cn/PPM/releases/download/Setup/PPM.Setup.exe)
 
 
 
